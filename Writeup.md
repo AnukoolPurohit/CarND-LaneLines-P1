@@ -21,7 +21,7 @@ First, I apply a HLS color filter, which enhances the colors yellow and white.
 
 The advantage of using a HLS color filter over one in RGB is that it's easier to describe a
 color range in HSV. While there is no need for this filter for the first to problems. This 
-filter helps with the optional challenge. This approach was inspired from the approach by
+filter helps with the optional challenge. This approach and [code](https://github.com/naokishibuya/car-finding-lane-lines) here was inspired from the approach by
 [Naoki Shibuya](https://medium.com/towards-data-science/finding-lane-lines-on-the-road-30cf016a1165).  
 
 Second, I grayscale this image we acquire from the color filter:
